@@ -1,0 +1,8 @@
+Hello {{ name }},
+
+We have an exclusive offer for you: {{ offer }}!
+
+Don't miss out on this opportunity.
+
+Best regards,
+Your Company
